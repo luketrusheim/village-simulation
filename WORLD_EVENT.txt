@@ -1,0 +1,17 @@
+1. how to trigger the event
+
+Click anywhere where there is not an entity.
+
+2. what should happen when the event is triggered
+
+A lake will be randomly generated from four shape options. After a random period of time, the center of the lake will begin
+to animate. A serpent will eventually spawn and seek out the nearest Dude (Full or NotFull). After it has "eaten" the Dude,
+it will return to it's spawn point and submerge under the waves.
+
+3. what the affected entities should do
+
+The nearest fairy will turn blue and eat water.
+
+4. what the new entity is and how it should behave
+
+The new entity is the serpent and it's behavior is described above.
